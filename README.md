@@ -23,7 +23,7 @@ Librerías externas: Ninguna. Se empleó exclusivamente la biblioteca estándar 
 📂 Organización del Proyecto
 
 La solución sigue la arquitectura habitual de un proyecto Maven:
-
+'''
 kata2/
 ├── src/
 │   ├── main/
@@ -38,7 +38,7 @@ kata2/
 ├── document.txt
 ├── pom.xml
 └── README.md
-
+'''
 
 Componentes Clave
 
